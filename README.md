@@ -92,6 +92,8 @@ Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil
 git push -u origin master
 
 
+![ss8](https://user-images.githubusercontent.com/73045261/96361098-1fe22380-114d-11eb-8da6-d2a01222c429.png)
+
 
 
 
