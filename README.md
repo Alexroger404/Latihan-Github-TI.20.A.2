@@ -18,7 +18,10 @@ git config --global user.email "nama email"
 
 ![ss1](https://user-images.githubusercontent.com/73045261/96359093-c53ecc80-1138-11eb-8917-b54da87337a3.png)
 
+
+
 - Perintah Dasar Git
+
 
 git init, perintah untuk membuat repository local
 
@@ -78,9 +81,14 @@ $ git remote add origin git@github.com:UserNameGit/NamaRepository.git
 
 Perintah di atas tidak akan menghasilkan output apa pun.
 
+![ss6](https://user-images.githubusercontent.com/73045261/96360225-53b94b00-1145-11eb-95a6-6c6a7e9967c6.png)
 
 
+- Push ke GitHub 
 
+Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub:
+
+git push -u origin master
 
 
 
