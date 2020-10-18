@@ -47,12 +47,25 @@ Selanjut nya adalah membuat folder pada local disk, untuk menyimpan update file 
 
 Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here. Setelah itu, Command Prompt akan muncul seperti di bawah ini. lalu kita ketik konfigurasi git init 
 
+![ss4](https://user-images.githubusercontent.com/73045261/96360055-7c404580-1143-11eb-9866-5de6699f2e1a.png)
 
 
+- Tambahkan File ke Repository
+
+Untuk bisa menambahkan file ke repository GitHub, Anda perlu menerapkan langkah-langkah di bawah ini:
+
+Buat file di folder yang sudah dibuat (Test Git). Contohnya, di sini kami membuat file index.php
+Buka GitBash lalu masukkan perintah berikut:
+
+$ git add index.php
 
 
+- Buat Commit 
+Selanjutnya, Anda perlu membuat Commit. Commit berfungsi untuk menambahkan update file serta komentar. Jadi setiap kontributor bisa memberikan konfirmasi update file di proyek yang sedang dikerjakan. Masukkan perintah berikut untuk membuat Commit:
 
+$ git commit -m "first commit"
 
+Pada tutorial ini kami membuat first commit sebagai Commit pertama kami. Anda bebas membuat membuat nama Commit apa saja.
 
 
 
