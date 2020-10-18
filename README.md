@@ -15,3 +15,25 @@ git config --global user.name "nama user"
 
 git config --global user.email "nama email"
 
+
+
+- Perintah Dasar Git
+
+git init, perintah untuk membuat repository local
+
+git add, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit
+
+git commit, perintah untuk menyimpan perubahan kedalam databese git.
+
+git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository.
+
+git clone [ur1], perintah untuk membuat working directory yang diambil dari repository server.
+
+git remote add origin [ur1], perintah untuk menambahkan remote server/repository server pada local repository (working directory)
+
+git pull, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
+
+
+
+
+
