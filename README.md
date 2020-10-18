@@ -15,4 +15,3 @@ git config --global user.name "nama user"
 
 git config --global user.email "nama email"
 
-
