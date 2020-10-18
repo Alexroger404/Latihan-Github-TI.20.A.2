@@ -12,6 +12,7 @@ git --version
 - Kemudian menambahkan nama user.name dan user.email
 
 git config --global user.name "nama user"
+
 git config --global user.email "nama email"
 
 
