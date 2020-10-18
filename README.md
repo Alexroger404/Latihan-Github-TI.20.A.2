@@ -72,6 +72,7 @@ Pada tutorial ini kami membuat first commit sebagai Commit pertama kami. Anda be
 
 
 
+![ss7](https://user-images.githubusercontent.com/73045261/96360829-c7118b80-114a-11eb-9c15-1619ffdd53c8.png)
 
 - Remote Repository Github
 
