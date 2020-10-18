@@ -16,6 +16,7 @@ git config --global user.name "nama user"
 git config --global user.email "nama email"
 
 
+![ss1](https://user-images.githubusercontent.com/73045261/96359093-c53ecc80-1138-11eb-8917-b54da87337a3.png)
 
 - Perintah Dasar Git
 
@@ -34,6 +35,8 @@ git remote add origin [ur1], perintah untuk menambahkan remote server/repository
 git pull, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
 
+- Buat file pada windows
 
+Selanjut nya adalah membuat folder pada local disk, untuk menyimpan update file dari repository Github yanh telah anda buat.
 
 
