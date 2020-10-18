@@ -45,7 +45,9 @@ Selanjut nya adalah membuat folder pada local disk, untuk menyimpan update file 
 
 ![ss3](https://user-images.githubusercontent.com/73045261/96359837-721d4780-1141-11eb-96fd-dccc3fe5160e.png)
 
-Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here. Setelah itu, Command Prompt akan muncul seperti di bawah ini. 
+Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here. Setelah itu, Command Prompt akan muncul seperti di bawah ini. lalu kita ketik konfigurasi git init 
+
+
 
 
 
