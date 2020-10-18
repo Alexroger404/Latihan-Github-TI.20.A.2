@@ -41,6 +41,8 @@ Selanjut nya adalah membuat folder pada local disk, untuk menyimpan update file 
 
 ![ss2](https://user-images.githubusercontent.com/73045261/96359439-151f9280-113d-11eb-971f-50d80dc8c7b1.png)
 
+- Buka folder menggunakan Git Bash
+
 
 
 
