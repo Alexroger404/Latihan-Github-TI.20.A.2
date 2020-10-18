@@ -7,7 +7,7 @@ kemudian unduh Git sesuai dengan arsitektur komputer kita.kalau menggunakan 64 b
 selamat, Git sudah terinstall di windows.untuk menocbanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 git --version
 
--kemudian menambahkan nama user.name dan user.email
+- Kemudian menambahkan nama user.name dan user.email
 git config --global user.name "nama user"
 git config --global user.email "nama email"
 
