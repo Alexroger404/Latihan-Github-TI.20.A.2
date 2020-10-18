@@ -70,7 +70,7 @@ $ git commit -m "first commit"
 
 Pada tutorial ini kami membuat first commit sebagai Commit pertama kami. Anda bebas membuat membuat nama Commit apa saja.
 
-![ss5](https://user-images.githubusercontent.com/73045261/96360165-b52cea00-1144-11eb-9911-199beb814538.png)
+
 
 
 - Remote Repository Github
